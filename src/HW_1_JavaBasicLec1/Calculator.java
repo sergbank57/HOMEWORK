@@ -20,5 +20,9 @@ public class Calculator {
         double resultdivis = x / y;
         return resultdivis;
     }
+    public double Average(Integer x, Integer y, Integer z) {
+        double resultaverage = (x + y + z)/(double)3;
+        return resultaverage;
+    }
 }
 

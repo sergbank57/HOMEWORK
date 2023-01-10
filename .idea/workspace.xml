@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae349f8-7d4a-4659-a07d-7ce875d9d23d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/Calculator.java" afterDir="false" />
+    <list default="true" id="7ae349f8-7d4a-4659-a07d-7ce875d9d23d" name="Changes" comment="testic">
+      <change afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_4_PerAreaCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_5_AVERAGE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_1_DoubleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_1_DoubleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_3_multitable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_3_multitable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task_1_DoubleNumber">
+  <component name="RunManager" selected="Application.task_3_multitable">
     <configuration name="task_1_DoubleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1.task_1_DoubleNumber" />
       <module name="HOMEWORK" />
@@ -81,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_6_SizeMatters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1.task_6_SizeMatters" />
+    <configuration name="task_4_PerAreaCirc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1.task_4_PerAreaCirc" />
       <module name="HOMEWORK" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_7_SumTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1.task_7_SumTwoNumbers" />
+    <configuration name="task_5_AVERAGE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1.task_5_AVERAGE" />
       <module name="HOMEWORK" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task_1_DoubleNumber" />
         <item itemvalue="Application.task_3_multitable" />
-        <item itemvalue="Application.task_6_SizeMatters" />
         <item itemvalue="Application.task_2_name" />
-        <item itemvalue="Application.task_7_SumTwoNumbers" />
+        <item itemvalue="Application.task_4_PerAreaCirc" />
+        <item itemvalue="Application.task_5_AVERAGE" />
+        <item itemvalue="Application.task_1_DoubleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673308866253</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testic">
+      <created>1673361234590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673361234590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +195,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="testic" />
+    <option name="LAST_COMMIT_MESSAGE" value="testic" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_4_PerAreaCirc.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
