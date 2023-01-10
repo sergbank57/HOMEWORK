@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae349f8-7d4a-4659-a07d-7ce875d9d23d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_3_multitable.java" afterDir="false" />
+    <list default="true" id="7ae349f8-7d4a-4659-a07d-7ce875d9d23d" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_1_DoubleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1/task_1_DoubleNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task_3_multitable">
+  <component name="RunManager" selected="Application.task_1_DoubleNumber">
     <configuration name="task_1_DoubleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1.task_1_DoubleNumber" />
       <module name="HOMEWORK" />
@@ -108,10 +109,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task_1_DoubleNumber" />
         <item itemvalue="Application.task_3_multitable" />
         <item itemvalue="Application.task_6_SizeMatters" />
         <item itemvalue="Application.task_2_name" />
-        <item itemvalue="Application.task_1_DoubleNumber" />
         <item itemvalue="Application.task_7_SumTwoNumbers" />
       </list>
     </recent_temporary>
@@ -125,6 +126,21 @@
       <option name="presentableId" value="Default" />
       <updated>1673298949686</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1673308654732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673308654732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1673308866253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673308866253</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,5 +183,9 @@
         <entry key="ef457be0-25b1-4c01-9989-fcb39cee479b" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
