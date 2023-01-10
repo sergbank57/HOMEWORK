@@ -1,4 +1,4 @@
-package HW_1_JavaBasicLec1;
+package HW_1_JavaBasicLec1_lesson_2;
 
 public class Calculator {
     public double sum(double x, double y) {

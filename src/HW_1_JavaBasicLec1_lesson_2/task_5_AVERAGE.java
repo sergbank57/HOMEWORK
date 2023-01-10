@@ -1,6 +1,5 @@
-package HW_1_JavaBasicLec1;
+package HW_1_JavaBasicLec1_lesson_2;
 
-import java.math.BigInteger;
 import java.util.Scanner;
 
 public class task_5_AVERAGE {
