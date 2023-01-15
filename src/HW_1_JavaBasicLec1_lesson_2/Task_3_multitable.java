@@ -2,7 +2,7 @@ package HW_1_JavaBasicLec1_lesson_2;
 
 import java.util.Scanner;
 
-public class task_3_multitable {
+public class Task_3_multitable {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("введите целое число");

@@ -1,6 +1,6 @@
 package HW_1_JavaBasicLec1_lesson_2;
 
-public class task_8_CorrectDataTypes {
+public class Task_8_CorrectDataTypes {
 
         public static void main(String[] args) {
 

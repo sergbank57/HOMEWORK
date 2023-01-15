@@ -2,7 +2,7 @@ package HW_1_JavaBasicLec1_lesson_2;
 
 import java.util.Scanner;
 
-public class task_5_AVERAGE {
+public class Task_5_AVERAGE {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);

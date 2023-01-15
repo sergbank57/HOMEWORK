@@ -1,6 +1,6 @@
 package HW_1_JavaBasicLec1_lesson_2;
 
-public class task_7_SumTwoNumbers {
+public class Task_7_SumTwoNumbers {
         public static void main(String[] args) {
 
    //         int numberOne;
