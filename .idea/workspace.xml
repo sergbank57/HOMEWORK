@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ae349f8-7d4a-4659-a07d-7ce875d9d23d" name="Changes" comment="l">
-      <change afterPath="$PROJECT_DIR$/src/HW_3_BasicJava_12_01_23/Study_Basic_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_4_BJ_19_01/TASK_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_4_BJ_19_01/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_4_BJ_19_01/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_4_BJ_19_01/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_4_BJ_19_01/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_4_BJ_19_01/Task_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_1_DoubleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_1_DoubleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_2_name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_2_name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_3_multitable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_3_multitable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_4_PerAreaCirc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_4_PerAreaCirc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_5_AVERAGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_5_AVERAGE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_6_SizeMatters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_6_SizeMatters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_7_SumTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_7_SumTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/task_8_CorrectDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_8_CorrectDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_2_lesson_3/solution_task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_2_lesson_3/Solution_task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_3_BasicJava_12_01_23/Study_Basic_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_3_BasicJava_12_01_23/Study_Basic_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +46,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Study_Basic_string">
-    <configuration name="CarDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarDemo" />
-      <module name="HOMEWORK" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_2_lesson_3.CarDemo" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denis\IdeaProjects\HOMEWORK\src\HW_4_BJ_19_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task_6">
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_4_BJ_19_01.Task_2" />
       <module name="HOMEWORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_2_lesson_3.*" />
+          <option name="PATTERN" value="HW_4_BJ_19_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Study_Basic_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_3_BasicJava_12_01_23.Study_Basic_string" />
+    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_4_BJ_19_01.Task_3" />
       <module name="HOMEWORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_3_BasicJava_12_01_23.*" />
+          <option name="PATTERN" value="HW_4_BJ_19_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1_DoubleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1_lesson_2.Task_1_DoubleNumber" />
+    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_4_BJ_19_01.Task_4" />
       <module name="HOMEWORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_1_JavaBasicLec1_lesson_2.*" />
+          <option name="PATTERN" value="HW_4_BJ_19_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2_name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_1_JavaBasicLec1_lesson_2.Task_2_name" />
+    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_4_BJ_19_01.Task_5" />
       <module name="HOMEWORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_1_JavaBasicLec1_lesson_2.*" />
+          <option name="PATTERN" value="HW_4_BJ_19_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_4_BJ_19_01.Task_6" />
+      <module name="HOMEWORK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_4_BJ_19_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Study_Basic_string" />
-        <item itemvalue="Application.Task_1_DoubleNumber" />
-        <item itemvalue="Application.Task_2_name" />
-        <item itemvalue="Application.CarDemo" />
-        <item itemvalue="Application.CarDemo (1)" />
+        <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Task_5" />
+        <item itemvalue="Application.Task_4" />
+        <item itemvalue="Application.Task_3" />
+        <item itemvalue="Application.Task_2" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +237,11 @@
           <url>file://$PROJECT_DIR$/src/HW_1_JavaBasicLec1_lesson_2/Task_4_PerAreaCirc.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HW_4_BJ_19_01/Task_3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
